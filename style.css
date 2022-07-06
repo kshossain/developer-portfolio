@@ -21,6 +21,7 @@ h2{
 }
 .half-width img {
     width: 100%;
+    padding-top: 100px;
 }
 .link-button{
     text-decoration: none;
